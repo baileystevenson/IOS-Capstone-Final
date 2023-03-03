@@ -7,7 +7,6 @@ data model types of Groups and inside the model Groups Activities.  It allows a 
 that include space for the activity name, date, time, location and details.  It features regular and unwinding segues and utilizes 5 storyboard screens.
 
 ![image](https://user-images.githubusercontent.com/55808115/222842931-1b64836c-bce7-4d5e-8807-a2087972bef2.png)
-![app pic](https://user-images.githubusercontent.com/55808115/222842791-a35e6a01-8f78-4cbf-9d96-173ee8d4f91e.png)
-![image](https://user-images.githubusercontent.com/55808115/222843270-e6343ad2-635b-406e-8d6d-95d2ee125710.png)
+![image](https://user-images.githubusercontent.com/55808115/222844416-02d330df-1f91-4154-bb87-b1a6b80beb34.png)![image](https://user-images.githubusercontent.com/55808115/222843270-e6343ad2-635b-406e-8d6d-95d2ee125710.png)
 ![image](https://user-images.githubusercontent.com/55808115/222843534-ef540aa2-acea-4423-9090-86741d21f34f.png)
 ![image](https://user-images.githubusercontent.com/55808115/222843626-64f8d6e7-a50d-4303-838c-8fdd3f47cb0a.png)
